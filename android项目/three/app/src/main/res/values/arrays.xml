@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="liebiao">
+        <item>武功山</item>
+        <item>荷花博览园</item>
+        <item>杨岐山</item>
+        <item>孽龙洞</item>
+        <item>萍乡安源路况工人运动纪念馆</item>
+    </string-array>
+
+</resources>

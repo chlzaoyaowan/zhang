@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#aabbcc"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/chongzhi" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/dache" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/gamec" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/gupiao" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/jipiao" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/kuaidi" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/kuaiqiang" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/qiaobao" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/qinmifu" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/taobao" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/tianmao" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/yikatong" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/youxi" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/yu" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/zhifubao" />
+
+        <ImageView
+            android:layout_weight="1"
+            android:layout_width="120dp"
+            android:layout_height="80dp"
+            android:background="@mipmap/zhuanzhang" />
+    </LinearLayout>
+</LinearLayout>
